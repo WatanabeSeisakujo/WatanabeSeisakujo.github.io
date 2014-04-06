@@ -1,5 +1,5 @@
 ---
-layout: watanabe 
+layout: default 
 title: 渡辺製作所
 ---
 
@@ -18,6 +18,7 @@ title: 渡辺製作所
 各100
 
 ## コンデンサ
+* 111111111
 * 50V/0.1μF
 
 ## ダイオード

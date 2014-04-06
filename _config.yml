@@ -1,0 +1,5 @@
+name: 渡辺製作所
+markdown: redcarpet
+pygments: true
+paginate: 10
+paginate_path: "logs/page:num"
