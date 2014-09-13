@@ -34,3 +34,7 @@ tags: アルコールストーブ
 
 ![](https://pbs.twimg.com/media/BxZvkZaCIAEo_td.jpg)
 
+ガンプラもかっこよくできました
+
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10616612_293954817465334_4966706624707183201_n.jpg?oh=a655973ac75c566d727af07a734f2d18&oe=54158662&__gda__=1410747933_1a62e14e7d1e820c923d232f2f704a99)
+
