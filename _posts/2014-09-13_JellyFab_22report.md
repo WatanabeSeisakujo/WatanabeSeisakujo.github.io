@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JellyFab#22レポート
-published: false
+date: 2014-09-13
 tags: アルコールストーブ
 ---
 
