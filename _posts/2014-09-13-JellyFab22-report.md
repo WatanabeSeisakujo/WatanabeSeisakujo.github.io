@@ -32,5 +32,5 @@ tags: アルコールストーブ
 
 @daiquri99 さんはTLUDストーブという何やらかっこいものを作ってます！ものはナビスコですが :)
 
-![](https://twitter.com/dictav/status/510718279111811072/photo/1)
+![](https://pbs.twimg.com/media/BxZvkZaCIAEo_td.jpg)
 
